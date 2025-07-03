@@ -18,7 +18,7 @@ A complete lead enhancement tool that:
 
 ## 🎯 Features Implemented
 
-### ✅ Option A: Smart Lead Scoring
+### ✅ 1: Smart Lead Scoring
 - Score out of 5 based on:
   - Personal email
   - LinkedIn present
@@ -26,12 +26,12 @@ A complete lead enhancement tool that:
   - Domain length
   - Company name length
 
-### ✅ Option B: Data Validation & Deduplication
+### ✅ 2: Data Validation & Deduplication
 - Regex email validation
 - Duplicate removal (based on email)
 - “Verified” tag if email valid and LinkedIn exists
 
-### ✅ Option C: Enrichment (Mock)
+### ✅ 3: Enrichment (Mock)
 - Adds:
   - Funding Stage (Seed, Series A, Bootstrapped)
   - Industry (SaaS, FinTech, HealthTech, etc.)
@@ -59,3 +59,8 @@ A complete lead enhancement tool that:
 ## 📥 Outputs
 - Filtered & scored CSV
 - Downloadable raw file per source (optional)
+
+---
+
+
+## 🔗 Do Check out **[👉 Try the Live App](https://caprae-lead-scoring-l5ch9zsc8o4cydsjtvgj2y.streamlit.app/)**
