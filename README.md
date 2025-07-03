@@ -2,16 +2,15 @@
 
 ## 🚀 Project: Lead Scoring, Validation & Enrichment Tool
 **Built With:** Python, Streamlit, Pandas, Regex  
-**Time Spent:** ~5 hours
 
 ---
 
 ## ✅ What I Built:
 A complete lead enhancement tool that:
 - Accepts one or more CSV files
-- Scores each lead (Option A)
-- Validates emails and removes duplicates (Option B)
-- Enriches with metadata like industry, founder, funding stage (Option C)
+- Scores each lead 
+- Validates emails and removes duplicates 
+- Enriches with metadata like industry, founder, funding stage
 - Offers filters and CSV export via an intuitive Streamlit interface
 
 ---
